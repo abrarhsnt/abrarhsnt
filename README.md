@@ -17,4 +17,4 @@ Below are my key projects – from deep learning for medical imaging to ensemble
 ## 📫 Let's connect
 - [LinkedIn](https://www.linkedin.com/in/abrarhsnt)
 - [Portfolio](https://sites.google.com/view/abrarhsnt)
-- [Google Scholar](link-if-you-have)
+- [Google Scholar](https://scholar.google.com/citations?user=aaOIt2sAAAAJ&hl=en)
