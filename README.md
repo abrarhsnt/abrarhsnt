@@ -11,9 +11,6 @@ I'm a Computer Science graduate from BRAC University and a Research Assistant at
 - LIME, SHAP, Grad‑CAM++
 - Git, LaTeX, Jupyter Notebooks
 
-## 📌 Pinned Repositories
-Below are my key projects – from deep learning for medical imaging to ensemble models with explainability.
-
 ## 📫 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/abrarhsnt)
 - [Portfolio](https://sites.google.com/view/abrarhsnt)
