@@ -1,17 +1,95 @@
-# Hi there, I'm Md Abrar Hasnat
+<div align="center">
 
-I'm a Computer Science graduate from BRAC University and a Research Assistant at the BIOSE Research Center. I build **interpretable AI systems** for healthcare – because models should not only predict, but also explain.
+# Md Abrar Hasnat
 
-**Research Focus:** Explainable AI (XAI), Medical Diagnostics, Multimodal Learning  
-**Publications:** [Interpretable Heart Disease Prediction](https://arxiv.org/abs/2511.01947) | [Interpretability in Medical Image Analysis](https://www.techrxiv.org/users/815368/articles/1274881-interpretability-of-machine-learning-models-in-medical-image-analysis-a-study-using-the-rsna-pneumonia-dataset?commit=53a9313cad62ee6687c992fb7f0841ee8c11d02a)  
-**Open To:** Remote ML roles, research assistance, technical writing, and PhD positions (Fall 2026)
+Computer Science graduate focused on interpretable machine learning and healthcare AI.  
+Research Assistant at BIOSE Lab, BRAC University.
 
-## Tools
-- Python, TensorFlow, Scikit‑learn, Pandas, NumPy
-- LIME, SHAP, Grad‑CAM++
-- Git, LaTeX, Jupyter Notebooks
+[LinkedIn](https://linkedin.com/in/abrarhsnt) • [Google Scholar](https://scholar.google.com/) • [Portfolio](https://your-portfolio-link.com) • [Email](mailto:abrarhsnt@gmail.com)
 
-## Contacts
-- [LinkedIn](https://www.linkedin.com/in/abrarhsnt)
-- [Portfolio](https://sites.google.com/view/abrarhsnt)
-- [Google Scholar](https://scholar.google.com/citations?user=aaOIt2sAAAAJ&hl=en)
+</div>
+
+---
+
+## About
+
+I work on machine learning systems that are transparent.
+
+My recent work includes:
+- Explainable AI for medical diagnostics
+- Multimodal learning for healthcare prediction
+- CNN-based medical image analysis
+- Interpretable ensemble models using SHAP, LIME, and Grad-CAM++
+
+
+
+
+
+## Research
+
+### Research Assistant — BIOSE Lab, BRAC University
+
+- Developed deep learning models for medical diagnostics using medical imaging datasets
+- Built interpretable pipelines with Grad-CAM++, SHAP, and LIME
+- Worked on multimodal prediction systems combining neural and tree-based models
+- Assisted in manuscript preparation, experiments, and model evaluation
+
+
+
+## Publications
+
+### Interpretable Heart Disease Prediction via a Weighted Ensemble Model
+Large-scale heart disease prediction framework with SHAP and surrogate decision trees.
+
+### Interpretability of Machine Learning Models in Medical Image Analysis
+Explainability-focused study using the RSNA Pneumonia Dataset.
+
+### A Color Vision Approach Considering Reflection Coefficient Based on Autoencoder Techniques
+Undergraduate thesis on material classification using deep learning and reflection coefficients.
+
+
+
+## Tech Stack
+
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,mysql" />
+</p>
+
+### Machine Learning & Data
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+</p>
+
+`Scikit-learn` • `Pandas` • `NumPy` • `Matplotlib`
+
+### Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,latex,vscode,jupyter,colab" />
+</p>
+
+
+
+
+
+
+
+## Interests
+
+`Explainable AI` • `Healthcare AI` • `Computer Vision` • `Multimodal Learning` • `NLP`
+
+
+
+## Currently
+
+- Researching interpretable machine learning systems
+- Exploring graduate opportunities for Fall 2026
+- Open to ML engineering, research, and technical writing roles
+
+
+
+## Contact
+
+- Email: `abrarhsnt@gmail.com`
+- LinkedIn: `linkedin.com/in/abrarhsnt`
+- GitHub: `github.com/abrarhsnt`
