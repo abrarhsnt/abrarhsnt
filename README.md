@@ -5,7 +5,7 @@
 Computer Science graduate focused on interpretable machine learning and healthcare AI.  
 Research Assistant at BIOSE Lab, BRAC University.
 
-[LinkedIn](https://linkedin.com/in/abrarhsnt) • [Google Scholar]((https://scholar.google.com/citations?user=aaOIt2sAAAAJ&hl=en)) • [Portfolio]((https://sites.google.com/view/abrarhsnt/?pli=1)) • [Email](mailto:abrarhsnt@gmail.com)
+[LinkedIn](https://linkedin.com/in/abrarhsnt) • [Google Scholar](https://scholar.google.com/citations?user=aaOIt2sAAAAJ&hl=en) • [Portfolio]((https://sites.google.com/view/abrarhsnt/?pli=1) • [Email](mailto:abrarhsnt@gmail.com)
 
 </div>
 
@@ -86,10 +86,3 @@ My recent work includes:
 - Exploring graduate opportunities for Fall 2026
 - Open to ML engineering, research, and technical writing roles
 
-
-
-## Contact
-
-- Email: `abrarhsnt@gmail.com`
-- LinkedIn: `linkedin.com/in/abrarhsnt`
-- GitHub: `github.com/abrarhsnt`
