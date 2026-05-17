@@ -27,7 +27,7 @@ My recent work includes:
 
 ## Research
 
-### Research Assistant — BIOSE Lab, BRAC University
+### BIOSE Lab, BRAC University
 
 - Developed deep learning models for medical diagnostics using medical imaging datasets
 - Worked on multimodal prediction systems
@@ -83,6 +83,6 @@ My recent work includes:
 ## Currently
 
 - Researching interpretable machine learning systems
-- Exploring graduate opportunities for Fall 2026
+- Exploring graduate opportunities for Fall 2026/Spring 2027
 - Open to ML engineering, research, and technical writing roles
 
