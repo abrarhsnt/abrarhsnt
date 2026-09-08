@@ -127,6 +127,5 @@ I build transparent machine learning systems that bridge the gap between complex
 
 <div align="center">
 
-*Building AI that doctors can trust* 🏥
 
 </div>
