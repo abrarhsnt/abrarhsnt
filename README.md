@@ -5,11 +5,12 @@
 **Research Assistant @ BIOSE Lab, BRAC University**  
 *Building interpretable AI for healthcare*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abrarhsnt96/)
+<!--[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abrarhsnt96/)-->
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abrarhsnt@gmail.com)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=aaOIt2sAAAAJ&hl=en)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Md-Abrar-Hasnat)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Google-Sites&logoColor=white)](https://sites.google.com/view/abrarhsnt/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abrarhsnt@gmail.com)
+
 
 
 
