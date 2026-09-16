@@ -107,8 +107,9 @@ I build transparent machine learning systems that bridge the gap between complex
 
 ## Certifications
 
-- **Machine Learning for All** @ Coursera
-- **Introduction to Git and GitHub** @ Coursera
+- **Machine Learning for All** [@Coursera](https://www.coursera.org/account/accomplishments/certificate/DUSNBRFDTP2X)
+- **Introduction to Git and GitHub** [@Coursera](https://www.coursera.org/account/accomplishments/certificate/SBW64GK999KT)
+- **Programming for Everybody** [@Coursera](https://www.coursera.org/account/accomplishments/certificate/BL9DD2RVHZWS)
 
 ---
 
