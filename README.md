@@ -122,7 +122,6 @@ I build transparent machine learning systems that bridge the gap between complex
 ## Currently
 
 - Researching interpretable machine learning systems at BIOSE Lab
-- Exploring graduate opportunities for **Fall 2026 / Spring 2027**
 - Open to **ML Engineering**, **Research**, and **Technical Writing** roles
 
 ---
