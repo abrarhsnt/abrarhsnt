@@ -60,11 +60,11 @@ I build transparent machine learning systems that bridge the gap between complex
 
 ---
 
-### [CricAnalytics: Interactive Cricket Dashboard](https://github.com/abrarhsnt/CricAnalytics)
-> Interactive dashboard for analyzing IPL ball-by-ball data with dynamic player and team insights.
+### [FPL Player Picker: Fantasy Premier League Points Predictor](https://github.com/abrarhsnt/fpl-player-picker)
+> Auto-updating dashboard that predicts Fantasy Premier League player points, picks the best XI across all formations, and finds the best-value players to buy.
 
-- **Tech Stack**: Python, Pandas, Plotly, Streamlit, GitHub
-- **Key Result**: Live web application with interactive cricket analytics and visualizations.
+- **Tech Stack**: Python, Pandas, Scikit-learn, Altair, Streamlit, GitHub Actions
+- **Key Result**: Live web application ([demo](https://fpl-player-picker-gmyfzh65eiq26ukuujkheh.streamlit.app/)) trained on four seasons of data, with a model that beat a form-based baseline in backtests and refreshes automatically after every gameweek.
 
 ---
 
